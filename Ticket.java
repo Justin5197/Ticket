@@ -1,8 +1,5 @@
 package homeworkTwo;
 
-/**
- * Created by user3h on 3/27/16.
- */
 public class Ticket {
 
     private int number;
